@@ -3,20 +3,19 @@
 ## Python | SQL | Power BI | DAX | Excel | BFSI | Financial Risk Analytics
 
 ------------------------------------------------------------------------
-
 ## Dashboard Images
 
 ### Executive Portfolio Overview
 
-<img width="1280" alt="Executive Portfolio Overview Dashboard" src="PASTE_YOUR_DASHBOARD_IMAGE_URL_HERE" />
+<img width="1280" alt="Executive Portfolio Overview Dashboard" src="https://raw.githubusercontent.com/godalakavya/Data-Analyst-Securitisation-Credit-Risk-Analytics/a6a9b09deb9dff6cf858bd9f62768e845667e2f4/Dashboard%20%20Page-1.jpeg" />
 
 ### Delinquency & Risk Analytics
 
-<img width="1280" alt="Delinquency and Risk Analytics Dashboard" src="PASTE_YOUR_DASHBOARD_IMAGE_URL_HERE" />
+<img width="1280" alt="Delinquency and Risk Analytics Dashboard" src="https://raw.githubusercontent.com/godalakavya/Data-Analyst-Securitisation-Credit-Risk-Analytics/a6a9b09deb9dff6cf858bd9f62768e845667e2f4/Dashboard%20Page-2.jpeg" />
 
 ### Vintage Performance & Loss Analytics
 
-<img width="1280" alt="Vintage Performance and Loss Analytics Dashboard" src="PASTE_YOUR_DASHBOARD_IMAGE_URL_HERE" />
+<img width="1280" alt="Vintage Performance and Loss Analytics Dashboard" src="https://raw.githubusercontent.com/godalakavya/Data-Analyst-Securitisation-Credit-Risk-Analytics/a6a9b09deb9dff6cf858bd9f62768e845667e2f4/Dashboard%20Page-3.jpeg" />
 
 ------------------------------------------------------------------------
 
