@@ -368,7 +368,6 @@ such as:
 
 ## Project Workflow
 
-```text
 Raw Financial Data
         ↓
 Data Cleaning & Validation
